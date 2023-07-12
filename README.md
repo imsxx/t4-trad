@@ -19,4 +19,6 @@ It is good that translated strings size (number of characters) is smaller than t
 
 ## How-to submit changes
 
-You need to create a branch a make a PR to have any change validated (manually for now)
+You need to:
+* create a branch
+* submit a PR to have any change reviewed and merged
