@@ -1,0 +1,790 @@
+{
+  "Entries": {
+    "loading version information...": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "加载版本信息..."
+      }
+    },
+    "loading database...": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "加载数据库..."
+      }
+    },
+    "accessing online services...": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "访问在线服务..."
+      }
+    },
+    "initializing environment...": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "初始化环境..."
+      }
+    },
+    "compiling plugins...": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "编译插件..."
+      }
+    },
+    "loading plugin package: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "加载插件包: {0}"
+      }
+    },
+    "author": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "作者"
+      }
+    },
+    "local version": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "本地版本"
+      }
+    },
+    "server version": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "服务器版本"
+      }
+    },
+    "enabled": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "启用"
+      }
+    },
+    "search plugins": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "搜索插件"
+      }
+    },
+    "reset feature": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "恢復默認"
+      }
+    },
+    "save all customizations": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "保存所有自定义设置"
+      }
+    },
+    "update and overwrite curated plugins": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "更新插件"
+      }
+    },
+    "current value": {
+      "Context": "T4.Plugins.Default.ActionBarResourceValue",
+      "Translations": {
+        "zhCN": "静态表现"
+      }
+    },
+    "regeneration value": {
+      "Context": "T4.Plugins.Default.ActionBarResourceValue",
+      "Translations": {
+        "zhCN": "动态表现"
+      }
+    },
+    "name on map": {
+      "Context": "T4.Plugins.Default.MissingWaypointsOnMap",
+      "Translations": {
+        "zhCN": "地图上名称位置"
+      }
+    },
+    "quest name on map": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "zhCN": "地图上的任务名称"
+      }
+    },
+    "icon on map": {
+      "Context": "T4.Plugins.Default.PlantsAndOresOnMap",
+      "Translations": {
+        "zhCN": "地图上图标尺寸"
+      }
+    },
+    "name on crafting panel": {
+      "Context": "T4.Plugins.Default.AspectName",
+      "Translations": {
+        "zhCN": "面板上的名称"
+      }
+    },
+    "name on collection panel": {
+      "Context": "T4.Plugins.Default.AspectName",
+      "Translations": {
+        "zhCN": "收藏面板的名称"
+      }
+    },
+    "value": {
+      "Context": "T4.Plugins.Default.BarrierAmountOverLifeBall",
+      "Translations": {
+        "zhCN": "值"
+      }
+    },
+    "quest chest on map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "zhCN": "地图上的任务箱子"
+      }
+    },
+    "event chest on map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "zhCN": "地图上的活动事件箱子"
+      }
+    },
+    "regular chest on map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "zhCN": "地图上的普通箱子"
+      }
+    },
+    "icon and name on map": {
+      "Context": "T4.Plugins.Default.EventTimersBelowMinimap",
+      "Translations": {
+        "zhCN": "小地图下方计时器"
+      }
+    },
+    "performance settings": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "zhCN": "性能设置"
+      }
+    },
+    "count on stash tabs": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "zhCN": "背包计数标签"
+      }
+    },
+    "count on inventory tabs": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "zhCN": "统计库存标签"
+      }
+    },
+    "regular item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "地图上的普通物品"
+      }
+    },
+    "rare /standard/ item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "地图上的稀有/标准/物品"
+      }
+    },
+    "rare /sacred/ item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "地图上的稀有/神圣/物品"
+      }
+    },
+    "rare /ancestral/ item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "地图上的稀有/先祖/物品"
+      }
+    },
+    "legendary item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "地图上的传奇物品"
+      }
+    },
+    "unique item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "地图上的暗金物品"
+      }
+    },
+    "regular monster on map": {
+      "Context": "T4.Plugins.Default.MonsterOnMap",
+      "Translations": {
+        "zhCN": "地图上的普通怪物"
+      }
+    },
+    "elite monster on map": {
+      "Context": "T4.Plugins.Default.MonsterOnMap",
+      "Translations": {
+        "zhCN": "地图上的精英怪物"
+      }
+    },
+    "icon on ground": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "zhCN": "地上的图标"
+      }
+    },
+    "destination name on map": {
+      "Context": "T4.Plugins.Default.PortalDestinationOnMap",
+      "Translations": {
+        "zhCN": "地图上的目的地名称"
+      }
+    },
+    "side quest name on map": {
+      "Context": "T4.Plugins.Default.SideQuestNameOnMap",
+      "Translations": {
+        "zhCN": "地图上的支线任务名称"
+      }
+    },
+    "sign on map": {
+      "Context": "T4.Plugins.Default.SignOnMap",
+      "Translations": {
+        "zhCN": "地图上的标志/指示牌"
+      }
+    },
+    "stronghold on map": {
+      "Context": "T4.Plugins.Default.StrongholdOnMap",
+      "Translations": {
+        "zhCN": "地图上的要塞"
+      }
+    },
+    "filter name": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "规则名称"
+      }
+    },
+    "character class": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "角色职业"
+      }
+    },
+    "item type": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "物品类型"
+      }
+    },
+    "item quality": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "物品品质"
+      }
+    },
+    "quality modifier": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "物品稀有度"
+      }
+    },
+    "#1 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#1 必要词缀"
+      }
+    },
+    "#2 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#2 必要词缀"
+      }
+    },
+    "#3 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#3 必要词缀"
+      }
+    },
+    "#4 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#4 必要词缀"
+      }
+    },
+    "optional count": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "可选词缀最低要求"
+      }
+    },
+    "#1 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#1 可选词缀"
+      }
+    },
+    "#2 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#2 可选词缀"
+      }
+    },
+    "#3 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#3 可选词缀"
+      }
+    },
+    "#4 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#4 可选词缀"
+      }
+    },
+    "#5 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#5 可选词缀"
+      }
+    },
+    "#6 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#6 可选词缀"
+      }
+    },
+    "#7 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "#7 可选词缀"
+      }
+    },
+    "save all rules": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "保存全部规则"
+      }
+    },
+    "add new rule": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "添加新规则"
+      }
+    },
+    "delete rule": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "删除选中规则"
+      }
+    },
+    "duplicate rule": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "复制选中规则"
+      }
+    },
+    "turn on/off": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "当前规则 开/关"
+      }
+    },
+    "search stats": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "搜索词缀"
+      }
+    },
+    "search rules": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "搜索筛选规则"
+      }
+    },
+    "rule name": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "筛选名称"
+      }
+    },
+    "state": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "启用状态"
+      }
+    },
+    "rule description": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "规则包含词缀与条件"
+      }
+    },
+    "and at least {0} of these:": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "并且至少其中 {0} 个:"
+      }
+    },
+    "on": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "开"
+      }
+    },
+    "error during the compilation of the following plugin package: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "在以下插件包的编译过程中出现错误： {0}"
+      }
+    },
+    "update available": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "有可用的更新"
+      }
+    },
+    "display the amount of hitpoints over the globe on the action bar": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "zhCN": "在状态栏上显示全球生命数值"
+      }
+    },
+    "font": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "zhCN": "字体"
+      }
+    },
+    "width": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "zhCN": "宽度"
+      }
+    },
+    "height": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "zhCN": "高度"
+      }
+    },
+    "display the amount of class resources (mana, fury, spirit, energy, essence) over the globe on the action bar": {
+      "Context": "T4.Plugins.Default.ActionBarResourceValue",
+      "Translations": {
+        "zhCN": "在状态栏上显示职业资源数值"
+      }
+    },
+    "display activated waypoints on the map": {
+      "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示已激活的传送点"
+      }
+    },
+    "display all known quest names on the map": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示所有已知任务名称"
+      }
+    },
+    "vertical offset": {
+      "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
+      "Translations": {
+        "zhCN": "垂直偏移"
+      }
+    },
+    "name font": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "zhCN": "名称字体"
+      }
+    },
+    "quest type font": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "zhCN": "任务类型字体"
+      }
+    },
+    "maximum zoom level": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "zhCN": "最大缩放级别"
+      }
+    },
+    "display all Altar Of Lilith locations on the map": {
+      "Context": "T4.Plugins.Default.AltarOfLilithOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示所有莉莉丝祭坛的位置"
+      }
+    },
+    "icon size": {
+      "Context": "T4.Plugins.Default.AltarOfLilithOnMap",
+      "Translations": {
+        "zhCN": "图标尺寸"
+      }
+    },
+    "display aspect names on crafting panel/collection panel": {
+      "Context": "T4.Plugins.Default.AspectName",
+      "Translations": {
+        "zhCN": "在制作面板/收藏面板上显示属性名称"
+      }
+    },
+    "display the amount of barrier over the life globe": {
+      "Context": "T4.Plugins.Default.BarrierAmountOverLifeBall",
+      "Translations": {
+        "zhCN": "在生命球上显示护盾值的数量"
+      }
+    },
+    "display chest icons on the map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示宝箱图标"
+      }
+    },
+    "displays actor debug information when debug overlay (F11) is turned on": {
+      "Context": "T4.Plugins.Default.DebugActors",
+      "Translations": {
+        "zhCN": "在调试覆盖层（按下F11）打开时，显示角色的调试信息"
+      }
+    },
+    "display event timers below the minimap": {
+      "Context": "T4.Plugins.Default.EventTimersBelowMinimap",
+      "Translations": {
+        "zhCN": "在小地图下方显示BOSS、军团等倒计时"
+      }
+    },
+    "configure various options of {0}": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "zhCN": "配置你的 {0}"
+      }
+    },
+    "framerate": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "zhCN": "帧率"
+      }
+    },
+    "display item counters over the inventory/stash tabs": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "zhCN": "在物品栏/储物箱选项卡上方显示物品计数器"
+      }
+    },
+    "size": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "zhCN": "尺寸"
+      }
+    },
+    "display items on the map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示物品"
+      }
+    },
+    "fill style": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "zhCN": "填充样式"
+      }
+    },
+    "show a notification when a legendary or higher item is dropped": {
+      "Context": "T4.Plugins.Default.LegendaryDropNotification",
+      "Translations": {
+        "zhCN": "当掉落传奇或更高品质的物品时显示通知"
+      }
+    },
+    "display the \"Missed equipment\" counter over the inventory panel": {
+      "Context": "T4.Plugins.Default.MissedEquipmentCountOverInventory",
+      "Translations": {
+        "zhCN": "在物品栏面板上显示「未捡起的装备」计数器"
+      }
+    },
+    "display the missing (not activated) waypoints on the map": {
+      "Context": "T4.Plugins.Default.MissingWaypointsOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示未激活的传送点"
+      }
+    },
+    "show the nearby monsters on the map": {
+      "Context": "T4.Plugins.Default.MonsterOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示附近的怪物"
+      }
+    },
+    "display an icon under NPCs in town": {
+      "Context": "T4.Plugins.Default.NPCiconsOnGround",
+      "Translations": {
+        "zhCN": "在城镇中显示NPC图标"
+      }
+    },
+    "show the nearby herbs/ores on the map": {
+      "Context": "T4.Plugins.Default.PlantsAndOresOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示附近的草药/矿石"
+      }
+    },
+    "display an icon under other players in town": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "zhCN": "在城镇中显示其他玩家职业图标"
+      }
+    },
+    "primary texture": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "zhCN": "主要纹理"
+      }
+    },
+    "secondary texture": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "zhCN": "次要纹理"
+      }
+    },
+    "show the name of the portal's destination on the map": {
+      "Context": "T4.Plugins.Default.PortalDestinationOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示传送门目的地的名称"
+      }
+    },
+    "show active side quest names on the map (experimental)": {
+      "Context": "T4.Plugins.Default.SideQuestNameOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示正在进行的支线任务名称（实验性功能）"
+      }
+    },
+    "show ingame \"signs\" on the map": {
+      "Context": "T4.Plugins.Default.SignOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示游戏中的「标记」"
+      }
+    },
+    "show farming statistics at the top left corner": {
+      "Context": "T4.Plugins.Default.StatTrackersInGame",
+      "Translations": {
+        "zhCN": "在左上角显示统计数据"
+      }
+    },
+    "show all strongholds on the map": {
+      "Context": "T4.Plugins.Default.StrongholdOnMap",
+      "Translations": {
+        "zhCN": "在地图上显示所有要塞"
+      }
+    },
+    "customizations successfully saved to your account": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "您的自定义设置已成功保存到您的账号"
+      }
+    },
+    "plugin update started...": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "插件更新已开始..."
+      }
+    },
+    "item rules successfully saved to your account": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "物品规则已成功保存到您的账号"
+      }
+    },
+    "saving item rules to your account failed: {0}": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "将物品规则保存到您的账号失败: {0}"
+      }
+    },
+    "License unauthorized!": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "激活码不可用!"
+      }
+    },
+    "License expired!": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "激活码已过期!"
+      }
+    },
+    "License verification failed! ({0})": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "激活码验证失败! ({0})"
+      }
+    },
+    "off": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "关"
+      }
+    },
+    "You need a license key!": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "您需要一个激活码卡密!"
+      }
+    },
+    "loading...": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "加载中..."
+      }
+    },
+    "Please provide a valid license:": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "请提供有效的激活码:"
+      }
+    },
+    "licence will expire in {0}": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "激活码即将到期 {0}"
+      }
+    },
+    "saving customizations to your account failed: {0}": {
+      "Context": "customizer",
+      "Translations": {
+        "zhCN": "将自定义设置保存到您的账号失败: {0}"
+      }
+    },
+    "can't download plugin update: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "无法下载插件更新: {0}"
+      }
+    },
+    "please restart {0} to recompile the updated plugins": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "请重新启动 {0} 以重新编译已更新的插件"
+      }
+    },
+    "unexpected error: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "发生意外错误: {0}"
+      }
+    },
+    "package '{0}' is updated to v{1}": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "版本 '{0}' 已更新至 v{1}"
+      }
+    },
+    "at least {0} of these:": {
+      "Context": "itemfilter",
+      "Translations": {
+        "zhCN": "其中有 {0} 项:"
+      }
+    },
+    "plugin runtime errors: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "插件运行时错误: {0}"
+      }
+    },
+    "{0} {1} is only compatible with Diablo IV {2}, however your version is {3}.": {
+      "Context": "internal",
+      "Translations": {
+        "zhCN": "{0} {1} 仅暗黑破坏神4可用 {2}, 您的版本是 {3}."
+      }
+    }
+  }
+}

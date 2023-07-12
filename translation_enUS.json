@@ -1,0 +1,790 @@
+{
+  "Entries": {
+    "loading version information...": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "loading version information..."
+      }
+    },
+    "loading database...": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "loading database..."
+      }
+    },
+    "accessing online services...": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "accessing online services..."
+      }
+    },
+    "initializing environment...": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "initializing environment..."
+      }
+    },
+    "compiling plugins...": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "compiling plugins..."
+      }
+    },
+    "loading plugin package: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "loading plugin package: {0}"
+      }
+    },
+    "author": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "author"
+      }
+    },
+    "local version": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "local version"
+      }
+    },
+    "server version": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "server version"
+      }
+    },
+    "enabled": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "enabled"
+      }
+    },
+    "search plugins": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "search plugins"
+      }
+    },
+    "reset feature": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "reset feature"
+      }
+    },
+    "save all customizations": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "save all customizations"
+      }
+    },
+    "update and overwrite curated plugins": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "update and overwrite curated plugins"
+      }
+    },
+    "current value": {
+      "Context": "T4.Plugins.Default.ActionBarResourceValue",
+      "Translations": {
+        "enUS": "current value"
+      }
+    },
+    "regeneration value": {
+      "Context": "T4.Plugins.Default.ActionBarResourceValue",
+      "Translations": {
+        "enUS": "regeneration value"
+      }
+    },
+    "name on map": {
+      "Context": "T4.Plugins.Default.MissingWaypointsOnMap",
+      "Translations": {
+        "enUS": "name on map"
+      }
+    },
+    "quest name on map": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "enUS": "quest name on map"
+      }
+    },
+    "icon on map": {
+      "Context": "T4.Plugins.Default.PlantsAndOresOnMap",
+      "Translations": {
+        "enUS": "icon on map"
+      }
+    },
+    "name on crafting panel": {
+      "Context": "T4.Plugins.Default.AspectName",
+      "Translations": {
+        "enUS": "name on crafting panel"
+      }
+    },
+    "name on collection panel": {
+      "Context": "T4.Plugins.Default.AspectName",
+      "Translations": {
+        "enUS": "name on collection panel"
+      }
+    },
+    "value": {
+      "Context": "T4.Plugins.Default.BarrierAmountOverLifeBall",
+      "Translations": {
+        "enUS": "value"
+      }
+    },
+    "quest chest on map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "enUS": "quest chest on map"
+      }
+    },
+    "event chest on map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "enUS": "event chest on map"
+      }
+    },
+    "regular chest on map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "enUS": "regular chest on map"
+      }
+    },
+    "icon and name on map": {
+      "Context": "T4.Plugins.Default.EventTimersBelowMinimap",
+      "Translations": {
+        "enUS": "icon and name on map"
+      }
+    },
+    "performance settings": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "enUS": "performance settings"
+      }
+    },
+    "count on stash tabs": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "enUS": "count on stash tabs"
+      }
+    },
+    "count on inventory tabs": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "enUS": "count on inventory tabs"
+      }
+    },
+    "regular item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "regular item on map"
+      }
+    },
+    "rare /standard/ item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "rare /standard/ item on map"
+      }
+    },
+    "rare /sacred/ item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "rare /sacred/ item on map"
+      }
+    },
+    "rare /ancestral/ item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "rare /ancestral/ item on map"
+      }
+    },
+    "legendary item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "legendary item on map"
+      }
+    },
+    "unique item on map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "unique item on map"
+      }
+    },
+    "regular monster on map": {
+      "Context": "T4.Plugins.Default.MonsterOnMap",
+      "Translations": {
+        "enUS": "regular monster on map"
+      }
+    },
+    "elite monster on map": {
+      "Context": "T4.Plugins.Default.MonsterOnMap",
+      "Translations": {
+        "enUS": "elite monster on map"
+      }
+    },
+    "icon on ground": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "enUS": "icon on ground"
+      }
+    },
+    "destination name on map": {
+      "Context": "T4.Plugins.Default.PortalDestinationOnMap",
+      "Translations": {
+        "enUS": "destination name on map"
+      }
+    },
+    "side quest name on map": {
+      "Context": "T4.Plugins.Default.SideQuestNameOnMap",
+      "Translations": {
+        "enUS": "side quest name on map"
+      }
+    },
+    "sign on map": {
+      "Context": "T4.Plugins.Default.SignOnMap",
+      "Translations": {
+        "enUS": "sign on map"
+      }
+    },
+    "stronghold on map": {
+      "Context": "T4.Plugins.Default.StrongholdOnMap",
+      "Translations": {
+        "enUS": "stronghold on map"
+      }
+    },
+    "filter name": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "filter name"
+      }
+    },
+    "character class": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "character class"
+      }
+    },
+    "item type": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "item type"
+      }
+    },
+    "item quality": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "item quality"
+      }
+    },
+    "quality modifier": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "quality modifier"
+      }
+    },
+    "#1 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#1 mandatory"
+      }
+    },
+    "#2 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#2 mandatory"
+      }
+    },
+    "#3 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#3 mandatory"
+      }
+    },
+    "#4 mandatory": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#4 mandatory"
+      }
+    },
+    "optional count": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "optional count"
+      }
+    },
+    "#1 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#1 optional"
+      }
+    },
+    "#2 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#2 optional"
+      }
+    },
+    "#3 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#3 optional"
+      }
+    },
+    "#4 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#4 optional"
+      }
+    },
+    "#5 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#5 optional"
+      }
+    },
+    "#6 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#6 optional"
+      }
+    },
+    "#7 optional": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "#7 optional"
+      }
+    },
+    "save all rules": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "save all rules"
+      }
+    },
+    "add new rule": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "add new rule"
+      }
+    },
+    "delete rule": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "delete rule"
+      }
+    },
+    "duplicate rule": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "duplicate rule"
+      }
+    },
+    "turn on/off": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "turn on/off"
+      }
+    },
+    "search stats": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "search stats"
+      }
+    },
+    "search rules": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "search rules"
+      }
+    },
+    "rule name": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "rule name"
+      }
+    },
+    "state": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "state"
+      }
+    },
+    "rule description": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "rule description"
+      }
+    },
+    "and at least {0} of these:": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "and at least {0} of these:"
+      }
+    },
+    "on": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "on"
+      }
+    },
+    "error during the compilation of the following plugin package: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "error during the compilation of the following plugin package: {0}"
+      }
+    },
+    "update available": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "update available"
+      }
+    },
+    "display the amount of hitpoints over the globe on the action bar": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "enUS": "display the amount of hitpoints over the globe on the action bar"
+      }
+    },
+    "font": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "enUS": "font"
+      }
+    },
+    "width": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "enUS": "width"
+      }
+    },
+    "height": {
+      "Context": "T4.Plugins.Default.ActionBarHitpointValue",
+      "Translations": {
+        "enUS": "height"
+      }
+    },
+    "display the amount of class resources (mana, fury, spirit, energy, essence) over the globe on the action bar": {
+      "Context": "T4.Plugins.Default.ActionBarResourceValue",
+      "Translations": {
+        "enUS": "display the amount of class resources (mana, fury, spirit, energy, essence) over the globe on the action bar"
+      }
+    },
+    "display activated waypoints on the map": {
+      "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
+      "Translations": {
+        "enUS": "display activated waypoints on the map"
+      }
+    },
+    "display all known quest names on the map": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "enUS": "display all known quest names on the map"
+      }
+    },
+    "vertical offset": {
+      "Context": "T4.Plugins.Default.ActivatedWaypointNamesOnMap",
+      "Translations": {
+        "enUS": "vertical offset"
+      }
+    },
+    "name font": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "enUS": "name font"
+      }
+    },
+    "quest type font": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "enUS": "quest type font"
+      }
+    },
+    "maximum zoom level": {
+      "Context": "T4.Plugins.Default.AllQuestNameOnMap",
+      "Translations": {
+        "enUS": "maximum zoom level"
+      }
+    },
+    "display all Altar Of Lilith locations on the map": {
+      "Context": "T4.Plugins.Default.AltarOfLilithOnMap",
+      "Translations": {
+        "enUS": "display all Altar Of Lilith locations on the map"
+      }
+    },
+    "icon size": {
+      "Context": "T4.Plugins.Default.AltarOfLilithOnMap",
+      "Translations": {
+        "enUS": "icon size"
+      }
+    },
+    "display aspect names on crafting panel/collection panel": {
+      "Context": "T4.Plugins.Default.AspectName",
+      "Translations": {
+        "enUS": "display aspect names on crafting panel/collection panel"
+      }
+    },
+    "display the amount of barrier over the life globe": {
+      "Context": "T4.Plugins.Default.BarrierAmountOverLifeBall",
+      "Translations": {
+        "enUS": "display the amount of barrier over the life globe"
+      }
+    },
+    "display chest icons on the map": {
+      "Context": "T4.Plugins.Default.ChestsOnMap",
+      "Translations": {
+        "enUS": "display chest icons on the map"
+      }
+    },
+    "displays actor debug information when debug overlay (F11) is turned on": {
+      "Context": "T4.Plugins.Default.DebugActors",
+      "Translations": {
+        "enUS": "displays actor debug information when debug overlay (F11) is turned on"
+      }
+    },
+    "display event timers below the minimap": {
+      "Context": "T4.Plugins.Default.EventTimersBelowMinimap",
+      "Translations": {
+        "enUS": "display event timers below the minimap"
+      }
+    },
+    "configure various options of {0}": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "enUS": "configure various options of {0}"
+      }
+    },
+    "framerate": {
+      "Context": "T4.Plugins.Default.GlobalOptions",
+      "Translations": {
+        "enUS": "framerate"
+      }
+    },
+    "display item counters over the inventory/stash tabs": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "enUS": "display item counters over the inventory/stash tabs"
+      }
+    },
+    "size": {
+      "Context": "T4.Plugins.Default.ItemCountOnTabs",
+      "Translations": {
+        "enUS": "size"
+      }
+    },
+    "display items on the map": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "display items on the map"
+      }
+    },
+    "fill style": {
+      "Context": "T4.Plugins.Default.ItemOnMap",
+      "Translations": {
+        "enUS": "fill style"
+      }
+    },
+    "show a notification when a legendary or higher item is dropped": {
+      "Context": "T4.Plugins.Default.LegendaryDropNotification",
+      "Translations": {
+        "enUS": "show a notification when a legendary or higher item is dropped"
+      }
+    },
+    "display the \"Missed equipment\" counter over the inventory panel": {
+      "Context": "T4.Plugins.Default.MissedEquipmentCountOverInventory",
+      "Translations": {
+        "enUS": "display the \"Missed equipment\" counter over the inventory panel"
+      }
+    },
+    "display the missing (not activated) waypoints on the map": {
+      "Context": "T4.Plugins.Default.MissingWaypointsOnMap",
+      "Translations": {
+        "enUS": "display the missing (not activated) waypoints on the map"
+      }
+    },
+    "show the nearby monsters on the map": {
+      "Context": "T4.Plugins.Default.MonsterOnMap",
+      "Translations": {
+        "enUS": "show the nearby monsters on the map"
+      }
+    },
+    "display an icon under NPCs in town": {
+      "Context": "T4.Plugins.Default.NPCiconsOnGround",
+      "Translations": {
+        "enUS": "display an icon under NPCs in town"
+      }
+    },
+    "show the nearby herbs/ores on the map": {
+      "Context": "T4.Plugins.Default.PlantsAndOresOnMap",
+      "Translations": {
+        "enUS": "show the nearby herbs/ores on the map"
+      }
+    },
+    "display an icon under other players in town": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "enUS": "display an icon under other players in town"
+      }
+    },
+    "primary texture": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "enUS": "primary texture"
+      }
+    },
+    "secondary texture": {
+      "Context": "T4.Plugins.Default.PlayersOnGround",
+      "Translations": {
+        "enUS": "secondary texture"
+      }
+    },
+    "show the name of the portal's destination on the map": {
+      "Context": "T4.Plugins.Default.PortalDestinationOnMap",
+      "Translations": {
+        "enUS": "show the name of the portal's destination on the map"
+      }
+    },
+    "show active side quest names on the map (experimental)": {
+      "Context": "T4.Plugins.Default.SideQuestNameOnMap",
+      "Translations": {
+        "enUS": "show active side quest names on the map (experimental)"
+      }
+    },
+    "show ingame \"signs\" on the map": {
+      "Context": "T4.Plugins.Default.SignOnMap",
+      "Translations": {
+        "enUS": "show ingame \"signs\" on the map"
+      }
+    },
+    "show farming statistics at the top left corner": {
+      "Context": "T4.Plugins.Default.StatTrackersInGame",
+      "Translations": {
+        "enUS": "show farming statistics at the top left corner"
+      }
+    },
+    "show all strongholds on the map": {
+      "Context": "T4.Plugins.Default.StrongholdOnMap",
+      "Translations": {
+        "enUS": "show all strongholds on the map"
+      }
+    },
+    "customizations successfully saved to your account": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "customizations successfully saved to your account"
+      }
+    },
+    "plugin update started...": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "plugin update started..."
+      }
+    },
+    "item rules successfully saved to your account": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "item rules successfully saved to your account"
+      }
+    },
+    "saving item rules to your account failed: {0}": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "saving item rules to your account failed: {0}"
+      }
+    },
+    "License unauthorized!": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "License unauthorized!"
+      }
+    },
+    "License expired!": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "License expired!"
+      }
+    },
+    "License verification failed! ({0})": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "License verification failed! ({0})"
+      }
+    },
+    "off": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "off"
+      }
+    },
+    "You need a license key!": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "You need a license key!"
+      }
+    },
+    "loading...": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "loading..."
+      }
+    },
+    "Please provide a valid license:": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "Please provide a valid license:"
+      }
+    },
+    "licence will expire in {0}": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "licence will expire in {0}"
+      }
+    },
+    "saving customizations to your account failed: {0}": {
+      "Context": "customizer",
+      "Translations": {
+        "enUS": "saving customizations to your account failed: {0}"
+      }
+    },
+    "can't download plugin update: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "can't download plugin update: {0}"
+      }
+    },
+    "please restart {0} to recompile the updated plugins": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "please restart {0} to recompile the updated plugins"
+      }
+    },
+    "unexpected error: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "unexpected error: {0}"
+      }
+    },
+    "package '{0}' is updated to v{1}": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "package '{0}' is updated to v{1}"
+      }
+    },
+    "at least {0} of these:": {
+      "Context": "itemfilter",
+      "Translations": {
+        "enUS": "at least {0} of these:"
+      }
+    },
+    "plugin runtime errors: {0}": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "plugin runtime errors: {0}"
+      }
+    },
+    "{0} {1} is only compatible with Diablo IV {2}, however your version is {3}.": {
+      "Context": "internal",
+      "Translations": {
+        "enUS": "{0} {1} is only compatible with Diablo IV {2}, however your version is {3}."
+      }
+    }
+  }
+}
