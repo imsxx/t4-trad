@@ -69,7 +69,7 @@
     "reset feature": {
       "Context": "customizer",
       "Translations": {
-        "zhCN": "恢復默認"
+        "zhCN": "重置"
       }
     },
     "save all customizations": {
@@ -165,7 +165,7 @@
     "count on stash tabs": {
       "Context": "T4.Plugins.Default.ItemCountOnTabs",
       "Translations": {
-        "zhCN": "背包计数标签"
+        "zhCN": "背包计数器"
       }
     },
     "count on inventory tabs": {
@@ -435,7 +435,7 @@
     "update available": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "有可用的更新"
+        "zhCN": "有可用的更新 使用updater.exe来更新HUD"
       }
     },
     "display the amount of hitpoints over the globe on the action bar": {
@@ -543,7 +543,7 @@
     "display event timers below the minimap": {
       "Context": "T4.Plugins.Default.EventTimersBelowMinimap",
       "Translations": {
-        "zhCN": "在小地图下方显示BOSS、军团等倒计时"
+        "zhCN": "在小地图下方显示BOSS、军团、地狱狂潮等倒计时"
       }
     },
     "configure various options of {0}": {
@@ -555,7 +555,7 @@
     "framerate": {
       "Context": "T4.Plugins.Default.GlobalOptions",
       "Translations": {
-        "zhCN": "帧率"
+        "zhCN": "TurboHUD的帧率"
       }
     },
     "display item counters over the inventory/stash tabs": {
@@ -693,19 +693,19 @@
     "License unauthorized!": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "激活码不可用!"
+        "zhCN": "卡密（key）不可用!"
       }
     },
     "License expired!": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "激活码已过期!"
+        "zhCN": "卡密（key）已过期!"
       }
     },
     "License verification failed! ({0})": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "激活码验证失败! ({0})"
+        "zhCN": "卡密（key）验证失败! ({0})"
       }
     },
     "off": {
@@ -717,7 +717,7 @@
     "You need a license key!": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "您需要一个激活码卡密!"
+        "zhCN": "您需要一个卡密（key）!"
       }
     },
     "loading...": {
@@ -729,13 +729,13 @@
     "Please provide a valid license:": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "请提供有效的激活码:"
+        "zhCN": "请提供有效的卡密（key）:"
       }
     },
     "licence will expire in {0}": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "激活码即将到期 {0}"
+        "zhCN": "卡密（key）即将到期 {0}"
       }
     },
     "saving customizations to your account failed: {0}": {
@@ -753,7 +753,7 @@
     "please restart {0} to recompile the updated plugins": {
       "Context": "internal",
       "Translations": {
-        "zhCN": "请重新启动 {0} 以重新编译已更新的插件"
+        "zhCN": "请按F5重新启动 {0} 以重新编译已更新的插件"
       }
     },
     "unexpected error: {0}": {
